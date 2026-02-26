@@ -5,9 +5,9 @@
     "assets": "assets",
     "docsTree": [
       {
-        "path": "GENERAL",
         "categoryName": "GENERAL",
         "isCategory": false,
+        "path": "GENERAL",
         "children": [
           {
             "path": "GENERAL/summary.md",
@@ -40,7 +40,12 @@
             "children": [
               {
                 "path": "LISTS/aatrox-abilities.md",
-                "children": []
+                "children": [
+                  {
+                    "path": "archbee-doc-43vC3WvGDlb79ryPtSxEe.md",
+                    "children": []
+                  }
+                ]
               }
             ]
           },
@@ -119,6 +124,12 @@
             "children": []
           }
         ]
+      },
+      {
+        "categoryName": "Shadow Docs",
+        "isCategory": true,
+        "children": [],
+        "isShadowDocs": true
       }
     ]
   },
