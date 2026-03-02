@@ -45,7 +45,22 @@
                     "children": [
                       {
                         "path": "LISTS/archbee-doc-wJQh7ipWV3RwUJUivtFuA.md",
-                        "children": []
+                        "children": [
+                          {
+                            "path": "LISTS/aatrox-matchups.md",
+                            "children": [
+                              {
+                                "path": "LISTS/aatrox-counters.md",
+                                "children": [
+                                  {
+                                    "path": "LISTS/aatrox-synergies.md",
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
                       }
                     ]
                   }
