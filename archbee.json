@@ -15,6 +15,7 @@
           {
             "path": "GENERAL/summary.md",
             "children": [],
+            "isHidden": true,
             "isLink": true,
             "linkTitle": "DOCS.ARCHBEE.COM",
             "linkHref": "www.archbee.com",
@@ -23,14 +24,13 @@
           {
             "path": "GENERAL/introduction.md",
             "children": [],
-            "isHidden": false
+            "isHidden": false,
+            "isLink": true,
+            "linkTitle": "Introduction to the Project",
+            "linkHref": ""
           },
           {
             "path": "GENERAL/quick-reference.md",
-            "children": []
-          },
-          {
-            "path": "GENERAL/all-blocks.md",
             "children": []
           }
         ]
@@ -108,6 +108,10 @@
         "isCategory": true,
         "children": [
           {
+            "path": "GENERAL/all-blocks.md",
+            "children": []
+          },
+          {
             "path": "SCENARIOS/checklist-scenarios.md",
             "children": []
           },
@@ -166,7 +170,7 @@
         ]
       },
       {
-        "categoryName": "ASTA E SHADOW",
+        "categoryName": "Shadow Docs",
         "isCategory": true,
         "children": [],
         "isShadowDocs": true
