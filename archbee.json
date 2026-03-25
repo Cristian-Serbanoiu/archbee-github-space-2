@@ -5,207 +5,272 @@
     "assets": "assets",
     "docsTree": [
       {
-        "categoryName": "GENERAL",
+        "path": "archbee-doc-ni5Xd0ytnDIDoh2o_w4Uh.md",
+        "children": []
+      },
+      {
+        "path": "archbee-doc-JWLbUt8fZKsVoX642YWdI.md",
+        "children": []
+      },
+      {
+        "path": "archbee-doc-rJkrF-EseCcVDDQVPPzMM.md",
+        "children": []
+      },
+      {
+        "path": "archbee-doc-b_5cwqDGO0xEJYZI9ezs8.md",
+        "children": []
+      },
+      {
+        "path": "archbee-doc-ROosblGqHxiS2nPU1ouNt.md",
+        "children": []
+      },
+      {
+        "path": "archbee-doc-sE-hEVuiJM6W5syrvAp_b.md",
+        "children": []
+      },
+      {
+        "path": "archbee-doc-IR0OMfn2E9Jae3-OfXwDM.md",
+        "children": []
+      },
+      {
+        "path": "archbee-doc-EU9quPjgWnjEG_tdH7GIR.md",
+        "children": []
+      },
+      {
+        "path": "archbee-doc-78bfhEdHPtFDazXGY4433.md",
+        "children": []
+      },
+      {
+        "path": "archbee-doc--TCiEq8yM5Yi4fdRmBqHf.md",
+        "children": []
+      },
+      {
+        "path": "archbee-doc-HHJpZYmZDpt_tRN93jDua.md",
+        "children": []
+      },
+      {
+        "path": "archbee-doc-myRx3m3yRn8doPQDyNPGZ.md",
+        "children": []
+      },
+      {
+        "path": "archbee-doc--U1qqZ3uosuPPM17AbzaT.md",
+        "children": []
+      },
+      {
+        "categoryName": "INDIVIDUAL BLOCKS",
         "isCategory": true,
         "children": [
           {
-            "path": "GENERAL/glossary-terms.md",
+            "path": "archbee-doc-hfGdcBP3JwWQo6aASgBiV.md",
             "children": []
           },
           {
-            "path": "GENERAL/bla-bla.md",
+            "path": "archbee-doc-96S97ZWs1LMc9ynlzcolp.md",
             "children": []
           },
           {
-            "path": "GENERAL/getting-started.md",
-            "children": [],
-            "isHidden": false,
-            "isLink": true,
-            "linkTitle": "Getting started guide",
-            "linkHref": "https://docs.archbee.com/getting-started",
-            "linkOpensInNewTab": true
+            "path": "archbee-doc-ENNiy-dqJgQ0nnHWEVjji.md",
+            "children": []
           },
           {
-            "path": "GENERAL/summary.md",
-            "children": [],
-            "isHidden": true,
-            "isLink": true,
-            "linkTitle": "DOCS.ARCHBEE.COM",
-            "linkHref": "www.archbee.com",
-            "linkOpensInNewTab": true
+            "path": "archbee-doc-g1WAnNvzw8InO7w-0BIK4.md",
+            "children": []
           },
           {
-            "path": "GENERAL/introduction.md",
-            "children": [],
-            "isHidden": false,
-            "isLink": true,
-            "linkTitle": "Introduction to the Project",
-            "linkHref": ""
-          },
-          {
-            "path": "GENERAL/quick-reference.md",
-            "children": [],
-            "isHidden": true
-          },
-          {
-            "path": "GENERAL/all-blocks.md",
-            "children": [],
-            "isHidden": false,
-            "isLink": true,
-            "linkTitle": "All blocks reference",
-            "linkHref": "https://docs.archbee.com/blocks",
-            "linkOpensInNewTab": true
-          },
-          {
-            "path": "GENERAL/headings.md",
+            "path": "archbee-doc-R2iBn5nA_TOXajcJL5jrO.md",
             "children": []
           }
         ]
       },
       {
-        "categoryName": "LISTS",
+        "path": "archbee-doc-rPyfO5kekUQ_L3gtzd0p8.md",
+        "children": []
+      },
+      {
+        "path": "archbee-doc-EvxqBInEwJ4-Um3RrqsW7.md",
+        "children": []
+      },
+      {
+        "path": "archbee-doc-sl2R_EwzrNmDM2Hd3GEgG.md",
+        "children": []
+      },
+      {
+        "path": "archbee-doc-VIlV6kibPw_ZEqLa5yl_i.md",
+        "children": []
+      },
+      {
+        "path": "archbee-doc-aWJU4mFXWCErFRsRgyjtc.md",
+        "children": []
+      },
+      {
+        "path": "archbee-doc-6gUUDYs2SHrPLcBK-x_nA.md",
+        "children": []
+      },
+      {
+        "path": "archbee-doc-waxaZG9NgHvZA4QwgczKe.md",
+        "children": []
+      },
+      {
+        "path": "archbee-doc-XQBV6mwzJng-kUWgGBmEz.md",
+        "children": []
+      },
+      {
+        "categoryName": "CATEGORY FOR LINK GRIDS",
         "isCategory": true,
         "children": [
           {
-            "path": "LISTS/aatrox-abilities.md",
+            "path": "archbee-doc-w-CSqWnQsx-jqG5sBb8fR.md",
             "children": [
               {
-                "path": "LISTS/aatrox-lore.md",
-                "children": [
-                  {
-                    "path": "LISTS/aatrox-build.md",
-                    "children": [
-                      {
-                        "path": "LISTS/aatrox-combos.md",
-                        "children": [
-                          {
-                            "path": "LISTS/aatrox-matchups.md",
-                            "children": [
-                              {
-                                "path": "LISTS/aatrox-counters.md",
-                                "children": [
-                                  {
-                                    "path": "LISTS/aatrox-synergies.md",
-                                    "children": []
-                                  }
-                                ]
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
+                "path": "archbee-doc-LfimML4GcBhpHqW4qEcXg.md",
+                "children": []
+              },
+              {
+                "path": "archbee-doc-lXslHdOmxC-nxwF8BnjVh.md",
+                "children": []
+              },
+              {
+                "path": "archbee-doc-lPHe8JKTLQHiPIjn2F4JR.md",
+                "children": []
+              },
+              {
+                "path": "archbee-doc-7CEdaySmifoIQXX89faiy.md",
+                "children": [],
+                "isHidden": true
               }
             ]
           },
           {
-            "path": "LISTS/aatrox-guide.md",
-            "children": [],
-            "isHidden": true,
-            "isLink": true,
-            "linkTitle": "Aatrox guide (external)",
-            "linkHref": "https://www.leagueoflegends.com",
-            "linkOpensInNewTab": true
+            "path": "archbee-doc-ow3sE-ZaRGzSZbgI0Yat1.md",
+            "children": [
+              {
+                "path": "archbee-doc-ZNgLnRqJuIQy7EFLd7Yt3.md",
+                "children": []
+              },
+              {
+                "path": "archbee-doc-07whGelbAalg4NN67U_As.md",
+                "children": []
+              },
+              {
+                "path": "archbee-doc-AdYwCx4DFh68CU2bxHWCn.md",
+                "children": []
+              },
+              {
+                "path": "archbee-doc-Qw-qs1ibva13j7PZS8q89.md",
+                "children": [],
+                "isHidden": true
+              }
+            ]
           },
           {
-            "path": "LISTS/bulleted-advanced.md",
-            "children": [],
-            "isHidden": false,
-            "isLink": true,
-            "linkTitle": "Bulleted lists \u2014 advanced",
-            "linkHref": "https://docs.archbee.com/blocks/bulleted",
-            "linkOpensInNewTab": true
+            "path": "archbee-doc-Im54gLiEU2PvtF7y6um64.md",
+            "children": [
+              {
+                "path": "archbee-doc-Pa_MtDMo098w_bBm8vXEb.md",
+                "children": []
+              },
+              {
+                "path": "archbee-doc-aUbcK5h5qgEKD_aSjR5ww.md",
+                "children": []
+              },
+              {
+                "path": "archbee-doc-L0aoouCdwkmpSb7giwQ2K.md",
+                "children": []
+              },
+              {
+                "path": "archbee-doc-v8tE7r0b4Y1kyBBs5Nf31.md",
+                "children": [],
+                "isHidden": true
+              }
+            ]
           },
           {
-            "path": "LISTS/bulleted-scenarios.md",
-            "children": []
-          },
-          {
-            "path": "LISTS/checklist-advanced.md",
-            "children": []
-          },
-          {
-            "path": "LISTS/checklist-scenarios.md",
-            "children": [],
+            "path": "archbee-doc-dB1Gbw_OIFfXPy3eF-hCn.md",
+            "children": [
+              {
+                "path": "archbee-doc-CW9MBuP54FIM6tnmGeLyE.md",
+                "children": []
+              }
+            ],
             "isHidden": true
           },
           {
-            "path": "LISTS/numbered-advanced.md",
-            "children": []
+            "path": "archbee-doc-liPnem6G418qIgG_N1avr.md",
+            "children": [],
+            "isLink": true,
+            "linkTitle": "LINK DOCUMENT",
+            "linkHref": "www.archbee.com",
+            "linkOpensInNewTab": true
           },
           {
-            "path": "LISTS/numbered-scenarios.md",
-            "children": []
+            "categoryName": "CATEGORY DOCUMENT",
+            "isCategory": true,
+            "children": [
+              {
+                "path": "archbee-doc-Pcc-fZ4BFXNmQIOjV_UBB.md",
+                "children": []
+              }
+            ]
           }
         ]
       },
       {
-        "categoryName": "SCENARIOS",
+        "categoryName": "CATEGORY FOR ENDPOINTS",
         "isCategory": true,
         "children": [
           {
-            "path": "SCENARIOS/checklist-scenarios.md",
-            "children": []
+            "categoryName": "Unblock endpoints",
+            "isCategory": true,
+            "children": [
+              {
+                "categoryName": "Release all currently blocked endpoints",
+                "isCategory": false,
+                "path": "archbee-doc-VCvedrvFx3gY5zMzf8gfh.md",
+                "children": []
+              },
+              {
+                "categoryName": "Unblock a specific endpoint",
+                "isCategory": false,
+                "path": "archbee-doc-FLvFUkfJAXpN2jZPDrVLV.md",
+                "children": []
+              }
+            ]
           },
           {
-            "path": "SCENARIOS/cta-scenarios.md",
-            "children": []
+            "categoryName": "Outbound Integration",
+            "isCategory": true,
+            "children": [
+              {
+                "categoryName": "Run on demand Integration Flow",
+                "isCategory": false,
+                "path": "archbee-doc-dzsaJHCYSSr7TLsVwrVP5.md",
+                "children": []
+              }
+            ]
           },
           {
-            "path": "SCENARIOS/droplist-scenarios.md",
-            "children": []
-          },
-          {
-            "path": "SCENARIOS/heading-scenarios.md",
-            "children": []
-          },
-          {
-            "path": "SCENARIOS/hint-scenarios.md",
-            "children": [],
-            "isHidden": true
-          },
-          {
-            "path": "SCENARIOS/linkarray-scenarios.md",
-            "children": []
-          },
-          {
-            "path": "SCENARIOS/list-scenarios.md",
-            "children": []
-          },
-          {
-            "path": "SCENARIOS/new-list.md",
-            "children": []
-          },
-          {
-            "path": "SCENARIOS/new-table.md",
-            "children": []
-          },
-          {
-            "path": "SCENARIOS/split-scenarios.md",
-            "children": []
-          },
-          {
-            "path": "SCENARIOS/table-scenarios.md",
-            "children": []
-          },
-          {
-            "path": "SCENARIOS/table.md",
-            "children": []
-          },
-          {
-            "path": "SCENARIOS/tabs-scenarios.md",
-            "children": []
-          },
-          {
-            "path": "SCENARIOS/workflow-scenarios.md",
-            "children": [],
-            "isHidden": false,
-            "isLink": true,
-            "linkTitle": "Workflow block docs",
-            "linkHref": "https://docs.archbee.com/blocks/workflow",
-            "linkOpensInNewTab": true
+            "categoryName": "Inbound Integration",
+            "isCategory": true,
+            "children": [
+              {
+                "categoryName": "Get results for a specific flow execution id",
+                "isCategory": false,
+                "path": "archbee-doc-xPJTobTvIRM7U9cqlNAN8.md",
+                "children": []
+              },
+              {
+                "categoryName": "Run Inbound Integration flow",
+                "isCategory": false,
+                "path": "archbee-doc-mAQ3NXaXisUQxc_39_87c.md",
+                "children": []
+              },
+              {
+                "categoryName": "Run Inbound Integration Live Data flow",
+                "isCategory": false,
+                "path": "archbee-doc-olvULDTq9QN2BNW3wwuWZ.md",
+                "children": []
+              }
+            ]
           }
         ]
       },
