@@ -275,6 +275,168 @@
         ]
       },
       {
+        "categoryName": "ALL DOCS FILES",
+        "isCategory": true,
+        "children": [
+          {
+            "path": "GENERAL/all-blocks.md",
+            "children": []
+          },
+          {
+            "path": "GENERAL/bla-bla.md",
+            "children": []
+          },
+          {
+            "path": "GENERAL/getting-started.md",
+            "children": []
+          },
+          {
+            "path": "GENERAL/glossary-terms.md",
+            "children": []
+          },
+          {
+            "path": "GENERAL/headings.md",
+            "children": []
+          },
+          {
+            "path": "GENERAL/introduction.md",
+            "children": []
+          },
+          {
+            "path": "GENERAL/quick-reference.md",
+            "children": []
+          },
+          {
+            "path": "GENERAL/summary.md",
+            "children": []
+          },
+          {
+            "path": "LISTS/aatrox-abilities.md",
+            "children": []
+          },
+          {
+            "path": "LISTS/aatrox-build.md",
+            "children": []
+          },
+          {
+            "path": "LISTS/aatrox-combos.md",
+            "children": []
+          },
+          {
+            "path": "LISTS/aatrox-counters.md",
+            "children": []
+          },
+          {
+            "path": "LISTS/aatrox-guide.md",
+            "children": []
+          },
+          {
+            "path": "LISTS/aatrox-lore.md",
+            "children": []
+          },
+          {
+            "path": "LISTS/aatrox-matchups.md",
+            "children": []
+          },
+          {
+            "path": "LISTS/aatrox-synergies.md",
+            "children": []
+          },
+          {
+            "path": "LISTS/bulleted-advanced.md",
+            "children": []
+          },
+          {
+            "path": "LISTS/bulleted-scenarios.md",
+            "children": []
+          },
+          {
+            "path": "LISTS/checklist-advanced.md",
+            "children": []
+          },
+          {
+            "path": "LISTS/checklist-scenarios.md",
+            "children": []
+          },
+          {
+            "path": "LISTS/numbered-advanced.md",
+            "children": []
+          },
+          {
+            "path": "LISTS/numbered-scenarios.md",
+            "children": []
+          },
+          {
+            "path": "SCENARIOS/checklist-scenarios.md",
+            "children": []
+          },
+          {
+            "path": "SCENARIOS/cta-scenarios.md",
+            "children": []
+          },
+          {
+            "path": "SCENARIOS/droplist-scenarios.md",
+            "children": []
+          },
+          {
+            "path": "SCENARIOS/heading-scenarios.md",
+            "children": []
+          },
+          {
+            "path": "SCENARIOS/hint-scenarios.md",
+            "children": []
+          },
+          {
+            "path": "SCENARIOS/linkarray-scenarios.md",
+            "children": []
+          },
+          {
+            "path": "SCENARIOS/list-scenarios.md",
+            "children": []
+          },
+          {
+            "path": "SCENARIOS/new-list.md",
+            "children": []
+          },
+          {
+            "path": "SCENARIOS/new-table.md",
+            "children": []
+          },
+          {
+            "path": "SCENARIOS/split-scenarios.md",
+            "children": []
+          },
+          {
+            "path": "SCENARIOS/table-scenarios.md",
+            "children": []
+          },
+          {
+            "path": "SCENARIOS/table.md",
+            "children": []
+          },
+          {
+            "path": "SCENARIOS/tabs-scenarios.md",
+            "children": []
+          },
+          {
+            "path": "SCENARIOS/workflow-scenarios.md",
+            "children": []
+          },
+          {
+            "path": "reusables/docRefs/archbee-doc-IOQVkUNUKZP4S5CSlNiFi.md",
+            "children": []
+          },
+          {
+            "path": "reusables/docRefs/archbee-doc-rN7Yi2YJaN9xt4xGMLa_f.md",
+            "children": []
+          },
+          {
+            "path": "reusables/variables.json",
+            "children": []
+          }
+        ]
+      },
+      {
         "categoryName": "Shadow Docs",
         "isCategory": true,
         "children": [],
