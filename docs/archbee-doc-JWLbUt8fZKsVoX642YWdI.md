@@ -2,8 +2,8 @@
 title: swagger
 slug: JWLb-scalar
 docTags: 
-createdAt: Thu Feb 12 2026 09:17:35 GMT+0000 (Coordinated Universal Time)
-updatedAt: Fri Feb 13 2026 10:05:13 GMT+0000 (Coordinated Universal Time)
+createdAt: Wed Mar 25 2026 14:43:18 GMT+0000 (Coordinated Universal Time)
+updatedAt: Thu Mar 26 2026 07:32:58 GMT+0000 (Coordinated Universal Time)
 ---
 
 :::Swagger

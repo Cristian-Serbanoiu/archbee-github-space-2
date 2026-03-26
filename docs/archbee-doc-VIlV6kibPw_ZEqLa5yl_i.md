@@ -2,8 +2,8 @@
 title: HEADING, CODE DRAWER, MENTION
 slug: lBQ8B_MUHRtAnKc9yUZW-
 docTags: 
-createdAt: Tue Dec 16 2025 08:36:40 GMT+0000 (Coordinated Universal Time)
-updatedAt: Fri Feb 13 2026 14:42:02 GMT+0000 (Coordinated Universal Time)
+createdAt: Wed Mar 25 2026 14:43:20 GMT+0000 (Coordinated Universal Time)
+updatedAt: Thu Mar 26 2026 07:33:52 GMT+0000 (Coordinated Universal Time)
 ---
 
 ::::CodeDrawer{title="Code Section Title" codeEditorData="[object Object]" responsesEditorData="[object Object]" isResponseExpanded="true"}
@@ -59,7 +59,7 @@ Expandable Heading 3 Content
 - [ ] Checklist 2
 - [ ] Checklist 3
 
-<table isTableHeaderOn="true" columnWidths="220,220,221" selectedColumns="" selectedRows="" selectedTable="false">
+<table isTableHeaderOn="true" columnWidths="220,220,221">
   <tr>
     <td align="left">
       <p>TABLE</p>
@@ -222,8 +222,6 @@ Content of Tab 2
    1. Numbered list 2
       1. Numbered list 3
 
-
-
 :::Map
 ```json
 {
@@ -292,6 +290,7 @@ int_0^infty x^2 dx
     "pathParameters": [],
     "queryParameters": [],
     "headerParameters": [],
+    "formDataParameters": [],
     "bodyDataParameters": [
       {
         "name": "id",
@@ -299,8 +298,7 @@ int_0^infty x^2 dx
         "type": "string",
         "description": "ID of the cake to get"
       }
-    ],
-    "formDataParameters": []
+    ]
   },
   "currentNewParameter": {
     "label": "Body Parameter",
@@ -339,15 +337,5 @@ int_0^infty x^2 dx
 :::Iframe{code="<!-- <p>paste iframe code here</p> -->"}
 
 :::
-
-
-
-
-
-
-
-
-
-
 
 ohoooooo oooo

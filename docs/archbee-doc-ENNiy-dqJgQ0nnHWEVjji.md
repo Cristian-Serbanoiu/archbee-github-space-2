@@ -2,8 +2,8 @@
 title: Heading 2
 slug: ENNi-heading-2
 docTags: 
-createdAt: Fri Dec 12 2025 15:03:29 GMT+0000 (Coordinated Universal Time)
-updatedAt: Sun Dec 14 2025 09:05:19 GMT+0000 (Coordinated Universal Time)
+createdAt: Wed Mar 25 2026 14:43:18 GMT+0000 (Coordinated Universal Time)
+updatedAt: Thu Mar 26 2026 07:33:30 GMT+0000 (Coordinated Universal Time)
 ---
 
 ## Heading 2

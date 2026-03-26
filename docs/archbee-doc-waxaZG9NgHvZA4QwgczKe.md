@@ -2,11 +2,11 @@
 title: LINK GRIDS NORMAL
 slug: waxa-main-doc
 docTags: 
-createdAt: Wed Dec 10 2025 08:58:08 GMT+0000 (Coordinated Universal Time)
-updatedAt: Sun Dec 14 2025 09:05:19 GMT+0000 (Coordinated Universal Time)
+createdAt: Wed Mar 25 2026 14:43:20 GMT+0000 (Coordinated Universal Time)
+updatedAt: Thu Mar 26 2026 07:33:58 GMT+0000 (Coordinated Universal Time)
 ---
 
-::::LinkArray{contentSource="DOCS" sourceParentDocId="RdrcYV_06lj_teZYaYxxk" childrenDocs="[object Object],[object Object],[object Object]"}
+::::LinkArray{contentSource="CUSTOM"}
 :::LinkArrayItem{headerType="NONE" docId="w-CSqWnQsx-jqG5sBb8fR"}
 [**FIRST DOCUMENT**](archbee-doc-w-CSqWnQsx-jqG5sBb8fR.md)
 :::

@@ -2,8 +2,8 @@
 title: CODE DRAWERS
 slug: sl2R-code-drawers
 docTags: 
-createdAt: Tue Dec 16 2025 08:36:40 GMT+0000 (Coordinated Universal Time)
-updatedAt: Tue Jan 13 2026 08:53:00 GMT+0000 (Coordinated Universal Time)
+createdAt: Wed Mar 25 2026 14:43:19 GMT+0000 (Coordinated Universal Time)
+updatedAt: Thu Mar 26 2026 07:33:49 GMT+0000 (Coordinated Universal Time)
 ---
 
 # heading 1
@@ -11,10 +11,6 @@ updatedAt: Tue Jan 13 2026 08:53:00 GMT+0000 (Coordinated Universal Time)
 ## heading 2
 
 ### heading 3
-
-
-
-
 
 ::::CodeDrawer{title="00000000000000000000000" codeEditorData="[object Object]" responsesEditorData="[object Object]" isResponseExpanded="true"}
 :::CodeblockTabsExamples
@@ -37,8 +33,6 @@ fn();
 ## heading 2 MODIFIED
 
 ### heading 3
-
-
 
 # heading 1
 
@@ -86,6 +80,7 @@ fn();
     "pathParameters": [],
     "queryParameters": [],
     "headerParameters": [],
+    "formDataParameters": [],
     "bodyDataParameters": [
       {
         "name": "id",
@@ -93,8 +88,7 @@ fn();
         "type": "string",
         "description": "ID of the cake to get"
       }
-    ],
-    "formDataParameters": []
+    ]
   },
   "currentNewParameter": {
     "label": "Body Parameter",
@@ -110,8 +104,6 @@ fn();
 ## heading 2
 
 ### heading 3
-
-
 
 ::::CodeDrawer{title="1111111111111111111111111" codeEditorData="[object Object]" responsesEditorData="[object Object]" isResponseExpanded="true"}
 :::CodeblockTabsExamples
@@ -129,47 +121,17 @@ fn();
 :::
 ::::
 
-
-
 # heading 1
 
 ## heading 2
 
 ### heading 3
 
-
-
 # heading 1
 
 ## heading 2
 
 ### heading 3
-
-
-
-# heading 1
-
-## heading 2
-
-### heading 3
-
-
-
-# heading 1
-
-## heading 2
-
-### heading 3
-
-
-
-# heading 1
-
-## heading 2
-
-### heading 3
-
-
 
 # heading 1
 
@@ -183,7 +145,11 @@ fn();
 
 ### heading 3
 
+# heading 1
 
+## heading 2
+
+### heading 3
 
 # heading 1
 
@@ -191,7 +157,11 @@ fn();
 
 ### heading 3
 
+# heading 1
 
+## heading 2
+
+### heading 3
 
 # heading 1
 
@@ -199,7 +169,11 @@ fn();
 
 ### heading 3
 
+# heading 1
 
+## heading 2
+
+### heading 3
 
 ::::CodeDrawer{title="22222222222222222222222222222222222222" codeEditorData="[object Object]" responsesEditorData="[object Object]" isResponseExpanded="true"}
 :::CodeblockTabsExamples
@@ -223,23 +197,17 @@ fn();
 
 ### heading 3
 
-
-
 # heading 1
 
 ## heading 2
 
 ### heading 3
 
-
-
 # heading 1
 
 ## heading 2
 
 ### heading 3
-
-
 
 ::::CodeDrawer{title="33333333333333333333333333333333" codeEditorData="[object Object]" responsesEditorData="[object Object]" isResponseExpanded="true"}
 :::CodeblockTabsExamples
@@ -263,23 +231,17 @@ fn();
 
 ### heading 3
 
-
-
 # heading 1
 
 ## heading 2
 
 ### heading 3
 
-
-
 # heading 1
 
 ## heading 2
 
 ### heading 3
-
-
 
 ::::CodeDrawer{title="444444444444444444444444444444444444444" codeEditorData="[object Object]" responsesEditorData="[object Object]" isResponseExpanded="true"}
 :::CodeblockTabsExamples
@@ -303,23 +265,17 @@ fn();
 
 ### heading 3
 
-
-
 # heading 1
 
 ## heading 2
 
 ### heading 3
 
-
-
 # heading 1
 
 ## heading 2
 
 ### heading 3
-
-
 
 ::::CodeDrawer{title="5555555555555555555555555555555555555" codeEditorData="[object Object]" responsesEditorData="[object Object]" isResponseExpanded="true"}
 :::CodeblockTabsExamples
@@ -336,6 +292,4 @@ fn();
 ```
 :::
 ::::
-
-
 

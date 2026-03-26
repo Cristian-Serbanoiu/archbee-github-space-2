@@ -1,9 +1,9 @@
 ---
-title: 
+title: Heading 1
 slug: b_5c-
 docTags: Revenge,Ochanissi,Fangg19,BogBee
-createdAt: Tue Feb 03 2026 09:42:09 GMT+0000 (Coordinated Universal Time)
-updatedAt: Fri Feb 13 2026 10:17:31 GMT+0000 (Coordinated Universal Time)
+createdAt: Wed Mar 25 2026 14:43:19 GMT+0000 (Coordinated Universal Time)
+updatedAt: Thu Mar 26 2026 07:33:03 GMT+0000 (Coordinated Universal Time)
 ---
 
 ::::CodeDrawer{title="Code Section Title" codeEditorData="[object Object]" responsesEditorData="[object Object]" isResponseExpanded="true"}
@@ -18,8 +18,6 @@ updatedAt: Fri Feb 13 2026 10:17:31 GMT+0000 (Coordinated Universal Time)
 ```
 :::
 ::::
-
-# Heading 1
 
 # Heading 1
 
@@ -59,7 +57,7 @@ Expandable Heading 3 Content
 - [ ] Checklist 2
 - [ ] Checklist 3
 
-<table isTableHeaderOn="true" columnWidths="220,220,221" selectedColumns="" selectedRows="" selectedTable="false">
+<table isTableHeaderOn="true" columnWidths="220,220,221">
   <tr>
     <td align="left">
       <p>TABLE</p>
@@ -222,8 +220,6 @@ Content of Tab 2
    1. Numbered list 2
       1. Numbered list 3
 
-
-
 :::Map
 ```json
 {
@@ -292,6 +288,7 @@ int_0^infty x^2 dx
     "pathParameters": [],
     "queryParameters": [],
     "headerParameters": [],
+    "formDataParameters": [],
     "bodyDataParameters": [
       {
         "name": "id",
@@ -299,8 +296,7 @@ int_0^infty x^2 dx
         "type": "string",
         "description": "ID of the cake to get"
       }
-    ],
-    "formDataParameters": []
+    ]
   },
   "currentNewParameter": {
     "label": "Body Parameter",
@@ -339,15 +335,5 @@ int_0^infty x^2 dx
 :::Iframe{code="<!-- <p>paste iframe code here</p> -->"}
 
 :::
-
-
-
-
-
-
-
-
-
-
 
 ohoooooo oooo
