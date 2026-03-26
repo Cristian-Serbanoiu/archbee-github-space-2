@@ -5,55 +5,121 @@
     "assets": "assets",
     "docsTree": [
       {
-        "path": "archbee-doc-ni5Xd0ytnDIDoh2o_w4Uh.md",
+        "path": "archbee-doc-8cTrvyFTRsBdfVignBxMa.mdx",
         "children": []
       },
       {
-        "path": "archbee-doc-JWLbUt8fZKsVoX642YWdI.md",
+        "path": "archbee-doc-3lPEUDq6-yn8FCDn8v52V.mdx",
         "children": []
       },
       {
-        "path": "archbee-doc-rJkrF-EseCcVDDQVPPzMM.md",
+        "path": "archbee-doc-VqcAunInz9byD4mcjZQw6.mdx",
+        "children": [],
+        "isLink": true,
+        "linkTitle": "vino-sa-te-fff",
+        "linkHref": "cand-toata-lumea.doarme",
+        "linkOpensInNewTab": false
+      },
+      {
+        "path": "archbee-doc-i2LaxO6VRNOpBSHf1LFQN.mdx",
+        "children": [],
+        "isLink": true,
+        "linkTitle": "Laba",
+        "linkHref": "laba.com",
+        "linkOpensInNewTab": true
+      },
+      {
+        "path": "archbee-doc-M4z0NzCUxwSS_M18Z_z8s.mdx",
         "children": []
       },
       {
-        "path": "archbee-doc-b_5cwqDGO0xEJYZI9ezs8.md",
+        "path": "archbee-doc-IzNRfJCIDTjtXym8FUaKX.mdx",
+        "children": [],
+        "isLink": true,
+        "linkTitle": "asdasdasdas",
+        "linkHref": "ochanissi.com",
+        "linkOpensInNewTab": false
+      },
+      {
+        "path": "archbee-doc-oZUBmkO0QtrXY70iXvRnm.mdx",
+        "children": [],
+        "isLink": true,
+        "linkTitle": "32323323232eeeeee1211aa",
+        "linkHref": "ochanissi.com",
+        "linkOpensInNewTab": false
+      },
+      {
+        "categoryName": "LINKS",
+        "isCategory": true,
+        "children": [
+          {
+            "path": "LINKS/archbee-doc-BAFhM2yPUvj1lsP6-yujH.mdx",
+            "children": [],
+            "isLink": true,
+            "linkTitle": "Sa-mi iau mortii la caras",
+            "linkHref": "fmm.viata",
+            "linkOpensInNewTab": true
+          },
+          {
+            "path": "LINKS/archbee-doc-zeLxyslzoilcgwYGo5zJJ.mdx",
+            "children": [],
+            "isLink": true,
+            "linkTitle": "Linkutz",
+            "linkHref": "https://www.google.com",
+            "linkOpensInNewTab": true
+          },
+          {
+            "path": "LINKS/archbee-doc-k74ZWS_hbbyEJ7uw2ES7u.mdx",
+            "children": [],
+            "isLink": true,
+            "linkTitle": "ARCHBEE DOCS SAME TAB",
+            "linkHref": "https://docs.archbee.com/",
+            "linkOpensInNewTab": false
+          },
+          {
+            "path": "LINKS/archbee-doc-0eui-5j_VFWXnpYlc1u_r.mdx",
+            "children": [],
+            "isLink": true,
+            "linkTitle": "ARCHBEE DOCS NEW TAB",
+            "linkHref": "https://docs.archbee.com/",
+            "linkOpensInNewTab": true
+          }
+        ]
+      },
+      {
+        "path": "archbee-doc-W3Oky3WOLshnYkdSyiIj8.mdx",
         "children": []
       },
       {
-        "path": "archbee-doc-ROosblGqHxiS2nPU1ouNt.md",
-        "children": []
+        "categoryName": "Inline Images",
+        "isCategory": true,
+        "children": [
+          {
+            "path": "Inline Images/archbee-doc-Qq9sxi6izcUEtRVrbKBqX.mdx",
+            "children": []
+          },
+          {
+            "path": "Inline Images/archbee-doc-VY9IHRFHjXgsLoUOMojA9.mdx",
+            "children": []
+          },
+          {
+            "path": "Inline Images/archbee-doc-7McHmraloCGXZ0wo_5z9V.mdx",
+            "children": []
+          },
+          {
+            "categoryName": "sadssa",
+            "isCategory": true,
+            "children": []
+          },
+          {
+            "path": "Inline Images/archbee-doc-Vr_mJaK5vlXh6n-yXcmkD.mdx",
+            "children": []
+          }
+        ]
       },
       {
-        "path": "archbee-doc-sE-hEVuiJM6W5syrvAp_b.md",
-        "children": []
-      },
-      {
-        "path": "archbee-doc-IR0OMfn2E9Jae3-OfXwDM.md",
-        "children": []
-      },
-      {
-        "path": "archbee-doc-EU9quPjgWnjEG_tdH7GIR.md",
-        "children": []
-      },
-      {
-        "path": "archbee-doc-78bfhEdHPtFDazXGY4433.md",
-        "children": []
-      },
-      {
-        "path": "archbee-doc--TCiEq8yM5Yi4fdRmBqHf.md",
-        "children": []
-      },
-      {
-        "path": "archbee-doc-HHJpZYmZDpt_tRN93jDua.md",
-        "children": []
-      },
-      {
-        "path": "archbee-doc-myRx3m3yRn8doPQDyNPGZ.md",
-        "children": []
-      },
-      {
-        "path": "archbee-doc--U1qqZ3uosuPPM17AbzaT.md",
+        "categoryName": "IMAGES",
+        "isCategory": true,
         "children": []
       },
       {
@@ -61,57 +127,49 @@
         "isCategory": true,
         "children": [
           {
-            "path": "archbee-doc-hfGdcBP3JwWQo6aASgBiV.md",
+            "path": "INDIVIDUAL BLOCKS/archbee-doc-M26Cn8sbrV7l3kxJUPORv.mdx",
             "children": []
           },
           {
-            "path": "archbee-doc-96S97ZWs1LMc9ynlzcolp.md",
+            "path": "INDIVIDUAL BLOCKS/archbee-doc-78JHFOmY2SxTxgTBDNcs6.mdx",
             "children": []
           },
           {
-            "path": "archbee-doc-ENNiy-dqJgQ0nnHWEVjji.md",
+            "path": "INDIVIDUAL BLOCKS/archbee-doc-RPId7j7dBFgKfaMKLWIqM.mdx",
             "children": []
           },
           {
-            "path": "archbee-doc-g1WAnNvzw8InO7w-0BIK4.md",
-            "children": []
-          },
-          {
-            "path": "archbee-doc-R2iBn5nA_TOXajcJL5jrO.md",
+            "path": "INDIVIDUAL BLOCKS/archbee-doc-iiGBEf9b5hG9yLYdLXmKM.mdx",
             "children": []
           }
         ]
       },
       {
-        "path": "archbee-doc-rPyfO5kekUQ_L3gtzd0p8.md",
+        "path": "archbee-doc-1G7_DBGAjdTJaWE7yk4mD.mdx",
         "children": []
       },
       {
-        "path": "archbee-doc-EvxqBInEwJ4-Um3RrqsW7.md",
+        "path": "archbee-doc-jmwPjH9K8yYgM9iSvlkD5.mdx",
         "children": []
       },
       {
-        "path": "archbee-doc-sl2R_EwzrNmDM2Hd3GEgG.md",
+        "path": "archbee-doc-L6CO5W_tLDd0zzH8iGX9O.mdx",
         "children": []
       },
       {
-        "path": "archbee-doc-VIlV6kibPw_ZEqLa5yl_i.md",
+        "path": "archbee-doc-ICEPM_E3_0zp0Iqenl6DC.mdx",
         "children": []
       },
       {
-        "path": "archbee-doc-aWJU4mFXWCErFRsRgyjtc.md",
+        "path": "archbee-doc-wxNrsfNp1aRq4HPdOERUV.mdx",
         "children": []
       },
       {
-        "path": "archbee-doc-6gUUDYs2SHrPLcBK-x_nA.md",
+        "path": "archbee-doc-Pq08qV-sT4zm7QzKq0wa5.mdx",
         "children": []
       },
       {
-        "path": "archbee-doc-waxaZG9NgHvZA4QwgczKe.md",
-        "children": []
-      },
-      {
-        "path": "archbee-doc-XQBV6mwzJng-kUWgGBmEz.md",
+        "path": "archbee-doc-9JK-haiBsBNzVrGL5as2v.mdx",
         "children": []
       },
       {
@@ -119,83 +177,83 @@
         "isCategory": true,
         "children": [
           {
-            "path": "archbee-doc-w-CSqWnQsx-jqG5sBb8fR.md",
+            "path": "CATEGORY FOR LINK GRIDS/archbee-doc-ytSYftEWLNn0-CEUXjyGG.mdx",
             "children": [
               {
-                "path": "archbee-doc-LfimML4GcBhpHqW4qEcXg.md",
+                "path": "CATEGORY FOR LINK GRIDS/FIRST DOCUMENT/archbee-doc-5mutsioYvO1orwqgldfRM.mdx",
                 "children": []
               },
               {
-                "path": "archbee-doc-lXslHdOmxC-nxwF8BnjVh.md",
+                "path": "CATEGORY FOR LINK GRIDS/FIRST DOCUMENT/archbee-doc-zGbYRZTQ8s69eMZcWxOqB.mdx",
                 "children": []
               },
               {
-                "path": "archbee-doc-lPHe8JKTLQHiPIjn2F4JR.md",
+                "path": "CATEGORY FOR LINK GRIDS/FIRST DOCUMENT/archbee-doc-EH-9flzZPzQADz4uJvKyJ.mdx",
                 "children": []
               },
               {
-                "path": "archbee-doc-7CEdaySmifoIQXX89faiy.md",
+                "path": "CATEGORY FOR LINK GRIDS/FIRST DOCUMENT/archbee-doc-HaHCIlyZZwcM7JfiY1vP1.mdx",
                 "children": [],
                 "isHidden": true
               }
             ]
           },
           {
-            "path": "archbee-doc-ow3sE-ZaRGzSZbgI0Yat1.md",
+            "path": "CATEGORY FOR LINK GRIDS/archbee-doc-NgAV98Shlra7bp27-buSX.mdx",
             "children": [
               {
-                "path": "archbee-doc-ZNgLnRqJuIQy7EFLd7Yt3.md",
+                "path": "CATEGORY FOR LINK GRIDS/SECOND DOCUMENT/archbee-doc-aVBsms_AAF5JIyf9tZwZ5.mdx",
                 "children": []
               },
               {
-                "path": "archbee-doc-07whGelbAalg4NN67U_As.md",
+                "path": "CATEGORY FOR LINK GRIDS/SECOND DOCUMENT/archbee-doc-5T6MKlOtH0dr-lrEEqFzg.mdx",
                 "children": []
               },
               {
-                "path": "archbee-doc-AdYwCx4DFh68CU2bxHWCn.md",
+                "path": "CATEGORY FOR LINK GRIDS/SECOND DOCUMENT/archbee-doc-InSaNrFjHW9qbwRm1tqFK.mdx",
                 "children": []
               },
               {
-                "path": "archbee-doc-Qw-qs1ibva13j7PZS8q89.md",
+                "path": "CATEGORY FOR LINK GRIDS/SECOND DOCUMENT/archbee-doc-2Iqw2N1O16HBRKnnJ6_I7.mdx",
                 "children": [],
                 "isHidden": true
               }
             ]
           },
           {
-            "path": "archbee-doc-Im54gLiEU2PvtF7y6um64.md",
+            "path": "CATEGORY FOR LINK GRIDS/archbee-doc-Q4VqfNY2Lp74RhNyv7jrU.mdx",
             "children": [
               {
-                "path": "archbee-doc-Pa_MtDMo098w_bBm8vXEb.md",
+                "path": "CATEGORY FOR LINK GRIDS/THIRD DOCUMENT/archbee-doc-4_H19u9fdr_fLWx9DCL7p.mdx",
                 "children": []
               },
               {
-                "path": "archbee-doc-aUbcK5h5qgEKD_aSjR5ww.md",
+                "path": "CATEGORY FOR LINK GRIDS/THIRD DOCUMENT/archbee-doc-jDoxUf-is0qblymaPv5Eo.mdx",
                 "children": []
               },
               {
-                "path": "archbee-doc-L0aoouCdwkmpSb7giwQ2K.md",
+                "path": "CATEGORY FOR LINK GRIDS/THIRD DOCUMENT/archbee-doc-S8EHKf01HHBoffPYXlJzC.mdx",
                 "children": []
               },
               {
-                "path": "archbee-doc-v8tE7r0b4Y1kyBBs5Nf31.md",
+                "path": "CATEGORY FOR LINK GRIDS/THIRD DOCUMENT/archbee-doc-tyYdOzQMNFIoHT5LVRBh9.mdx",
                 "children": [],
                 "isHidden": true
               }
             ]
           },
           {
-            "path": "archbee-doc-dB1Gbw_OIFfXPy3eF-hCn.md",
+            "path": "CATEGORY FOR LINK GRIDS/archbee-doc-nFePKLtBsrTnf34RrOktq.mdx",
             "children": [
               {
-                "path": "archbee-doc-CW9MBuP54FIM6tnmGeLyE.md",
+                "path": "CATEGORY FOR LINK GRIDS/HIDDEN DOCUMENT WITH CHILD/archbee-doc-l_VoirQBrznpY--FN3fTB.mdx",
                 "children": []
               }
             ],
             "isHidden": true
           },
           {
-            "path": "archbee-doc-liPnem6G418qIgG_N1avr.md",
+            "path": "CATEGORY FOR LINK GRIDS/archbee-doc-ih5OfQeN7xzGm8Xpin7xG.mdx",
             "children": [],
             "isLink": true,
             "linkTitle": "LINK DOCUMENT",
@@ -207,228 +265,10 @@
             "isCategory": true,
             "children": [
               {
-                "path": "archbee-doc-Pcc-fZ4BFXNmQIOjV_UBB.md",
+                "path": "CATEGORY FOR LINK GRIDS/CATEGORY DOCUMENT/archbee-doc-APjIIMMaGbWZzMkmnPd01.mdx",
                 "children": []
               }
             ]
-          }
-        ]
-      },
-      {
-        "categoryName": "CATEGORY FOR ENDPOINTS",
-        "isCategory": true,
-        "children": [
-          {
-            "categoryName": "Unblock endpoints",
-            "isCategory": true,
-            "children": [
-              {
-                "categoryName": "Release all currently blocked endpoints",
-                "isCategory": false,
-                "path": "archbee-doc-VCvedrvFx3gY5zMzf8gfh.md",
-                "children": []
-              },
-              {
-                "categoryName": "Unblock a specific endpoint",
-                "isCategory": false,
-                "path": "archbee-doc-FLvFUkfJAXpN2jZPDrVLV.md",
-                "children": []
-              }
-            ]
-          },
-          {
-            "categoryName": "Outbound Integration",
-            "isCategory": true,
-            "children": [
-              {
-                "categoryName": "Run on demand Integration Flow",
-                "isCategory": false,
-                "path": "archbee-doc-dzsaJHCYSSr7TLsVwrVP5.md",
-                "children": []
-              }
-            ]
-          },
-          {
-            "categoryName": "Inbound Integration",
-            "isCategory": true,
-            "children": [
-              {
-                "categoryName": "Get results for a specific flow execution id",
-                "isCategory": false,
-                "path": "archbee-doc-xPJTobTvIRM7U9cqlNAN8.md",
-                "children": []
-              },
-              {
-                "categoryName": "Run Inbound Integration flow",
-                "isCategory": false,
-                "path": "archbee-doc-mAQ3NXaXisUQxc_39_87c.md",
-                "children": []
-              },
-              {
-                "categoryName": "Run Inbound Integration Live Data flow",
-                "isCategory": false,
-                "path": "archbee-doc-olvULDTq9QN2BNW3wwuWZ.md",
-                "children": []
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "categoryName": "ALL DOCS FILES",
-        "isCategory": true,
-        "children": [
-          {
-            "path": "GENERAL/all-blocks.md",
-            "children": []
-          },
-          {
-            "path": "GENERAL/bla-bla.md",
-            "children": []
-          },
-          {
-            "path": "GENERAL/getting-started.md",
-            "children": []
-          },
-          {
-            "path": "GENERAL/glossary-terms.md",
-            "children": []
-          },
-          {
-            "path": "GENERAL/headings.md",
-            "children": []
-          },
-          {
-            "path": "GENERAL/introduction.md",
-            "children": []
-          },
-          {
-            "path": "GENERAL/quick-reference.md",
-            "children": []
-          },
-          {
-            "path": "GENERAL/summary.md",
-            "children": []
-          },
-          {
-            "path": "LISTS/aatrox-abilities.md",
-            "children": []
-          },
-          {
-            "path": "LISTS/aatrox-build.md",
-            "children": []
-          },
-          {
-            "path": "LISTS/aatrox-combos.md",
-            "children": []
-          },
-          {
-            "path": "LISTS/aatrox-counters.md",
-            "children": []
-          },
-          {
-            "path": "LISTS/aatrox-guide.md",
-            "children": []
-          },
-          {
-            "path": "LISTS/aatrox-lore.md",
-            "children": []
-          },
-          {
-            "path": "LISTS/aatrox-matchups.md",
-            "children": []
-          },
-          {
-            "path": "LISTS/aatrox-synergies.md",
-            "children": []
-          },
-          {
-            "path": "LISTS/bulleted-advanced.md",
-            "children": []
-          },
-          {
-            "path": "LISTS/bulleted-scenarios.md",
-            "children": []
-          },
-          {
-            "path": "LISTS/checklist-advanced.md",
-            "children": []
-          },
-          {
-            "path": "LISTS/checklist-scenarios.md",
-            "children": []
-          },
-          {
-            "path": "LISTS/numbered-advanced.md",
-            "children": []
-          },
-          {
-            "path": "LISTS/numbered-scenarios.md",
-            "children": []
-          },
-          {
-            "path": "SCENARIOS/checklist-scenarios.md",
-            "children": []
-          },
-          {
-            "path": "SCENARIOS/cta-scenarios.md",
-            "children": []
-          },
-          {
-            "path": "SCENARIOS/droplist-scenarios.md",
-            "children": []
-          },
-          {
-            "path": "SCENARIOS/heading-scenarios.md",
-            "children": []
-          },
-          {
-            "path": "SCENARIOS/hint-scenarios.md",
-            "children": []
-          },
-          {
-            "path": "SCENARIOS/linkarray-scenarios.md",
-            "children": []
-          },
-          {
-            "path": "SCENARIOS/list-scenarios.md",
-            "children": []
-          },
-          {
-            "path": "SCENARIOS/new-list.md",
-            "children": []
-          },
-          {
-            "path": "SCENARIOS/new-table.md",
-            "children": []
-          },
-          {
-            "path": "SCENARIOS/split-scenarios.md",
-            "children": []
-          },
-          {
-            "path": "SCENARIOS/table-scenarios.md",
-            "children": []
-          },
-          {
-            "path": "SCENARIOS/table.md",
-            "children": []
-          },
-          {
-            "path": "SCENARIOS/tabs-scenarios.md",
-            "children": []
-          },
-          {
-            "path": "SCENARIOS/workflow-scenarios.md",
-            "children": []
-          },
-          {
-            "path": "reusables/docRefs/archbee-doc-IOQVkUNUKZP4S5CSlNiFi.md",
-            "children": []
-          },
-          {
-            "path": "reusables/docRefs/archbee-doc-rN7Yi2YJaN9xt4xGMLa_f.md",
-            "children": []
           }
         ]
       },
@@ -437,6 +277,21 @@
         "isCategory": true,
         "children": [],
         "isShadowDocs": true
+      },
+      {
+        "categoryName": "Financial API Specification",
+        "isCategory": true,
+        "children": []
+      },
+      {
+        "categoryName": "Financial API Specification",
+        "isCategory": true,
+        "children": []
+      },
+      {
+        "categoryName": "Integration Service API",
+        "isCategory": true,
+        "children": []
       }
     ]
   },
