@@ -2,8 +2,8 @@
 title: SOME BLOCKS
 slug: 6gUU-some-blocks
 docTags: 
-createdAt: Fri Dec 12 2025 14:38:25 GMT+0000 (Coordinated Universal Time)
-updatedAt: Sun Dec 14 2025 09:05:19 GMT+0000 (Coordinated Universal Time)
+createdAt: Wed Mar 25 2026 14:43:19 GMT+0000 (Coordinated Universal Time)
+updatedAt: Thu Mar 26 2026 07:33:56 GMT+0000 (Coordinated Universal Time)
 ---
 
 # Heading 1
@@ -34,7 +34,7 @@ Expandable Heading 3 Content
 - [ ] Checklist 2
 - [ ] Checklist 3
 
-<table isTableHeaderOn="true" columnWidths="220,220,221" selectedColumns="" selectedRows="" selectedTable="false">
+<table isTableHeaderOn="true" columnWidths="220,220,221">
   <tr>
     <td align="left">
       <p>TABLE</p>

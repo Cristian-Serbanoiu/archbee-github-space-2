@@ -2,11 +2,11 @@
 title: LINK GRIDS CARDS
 slug: XQBV-link-grids-cards
 docTags: 
-createdAt: Wed Dec 10 2025 09:00:26 GMT+0000 (Coordinated Universal Time)
-updatedAt: Sun Dec 14 2025 09:05:19 GMT+0000 (Coordinated Universal Time)
+createdAt: Wed Mar 25 2026 14:43:19 GMT+0000 (Coordinated Universal Time)
+updatedAt: Thu Mar 26 2026 07:34:00 GMT+0000 (Coordinated Universal Time)
 ---
 
-::::LinkArray{contentSource="DOCS" sourceParentDocId="RdrcYV_06lj_teZYaYxxk" childrenDocs="[object Object],[object Object],[object Object]" displayMode="CARD"}
+::::LinkArray{contentSource="CUSTOM"}
 :::LinkArrayItem{headerType="IMAGE" docId="w-CSqWnQsx-jqG5sBb8fR" displayMode="CARD"}
 [**FIRST DOCUMENT**](archbee-doc-w-CSqWnQsx-jqG5sBb8fR.md)
 :::

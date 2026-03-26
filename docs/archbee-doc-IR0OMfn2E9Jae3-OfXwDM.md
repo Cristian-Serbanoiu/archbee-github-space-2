@@ -2,8 +2,8 @@
 title: PEANUT MIREL
 slug: IR0O-o
 docTags: 
-createdAt: Mon Jan 05 2026 08:00:10 GMT+0000 (Coordinated Universal Time)
-updatedAt: Thu Feb 12 2026 08:45:07 GMT+0000 (Coordinated Universal Time)
+createdAt: Wed Mar 25 2026 14:43:19 GMT+0000 (Coordinated Universal Time)
+updatedAt: Thu Mar 26 2026 07:33:10 GMT+0000 (Coordinated Universal Time)
 ---
 
 :::ContentSnippet{docRefId="IOQVkUNUKZP4S5CSlNiFi"}
@@ -50,6 +50,7 @@ updatedAt: Thu Feb 12 2026 08:45:07 GMT+0000 (Coordinated Universal Time)
     "pathParameters": [],
     "queryParameters": [],
     "headerParameters": [],
+    "formDataParameters": [],
     "bodyDataParameters": [
       {
         "name": "id",
@@ -57,8 +58,7 @@ updatedAt: Thu Feb 12 2026 08:45:07 GMT+0000 (Coordinated Universal Time)
         "type": "string",
         "description": "ID of the cake to get"
       }
-    ],
-    "formDataParameters": []
+    ]
   },
   "currentNewParameter": {
     "label": "Body Parameter",
@@ -109,6 +109,7 @@ updatedAt: Thu Feb 12 2026 08:45:07 GMT+0000 (Coordinated Universal Time)
     "pathParameters": [],
     "queryParameters": [],
     "headerParameters": [],
+    "formDataParameters": [],
     "bodyDataParameters": [
       {
         "name": "id",
@@ -116,8 +117,7 @@ updatedAt: Thu Feb 12 2026 08:45:07 GMT+0000 (Coordinated Universal Time)
         "type": "string",
         "description": "ID of the cake to get"
       }
-    ],
-    "formDataParameters": []
+    ]
   },
   "currentNewParameter": {
     "label": "Body Parameter",
